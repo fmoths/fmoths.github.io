@@ -1,13 +1,16 @@
 ---
 layout: post
-title: JVM 깊게 파헤치기
+title: Java Garbage Collection 파헤치기
 categories: Java
 tags: Java
 ---
 
 # Garbage Collection
 
-*Assembled by GimunLee (2019-10-28)*
+*posted by fmoths (2020-09-08)*
+
+
+계속 업데이트 예정(미완)
 
 <br>
 
